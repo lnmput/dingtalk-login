@@ -1,4 +1,14 @@
 {
+  "name": "lnmput/dingtalk-login",
+  "description": "first commit",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yangzie",
+      "email": "lnmput@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Yangzie\\Dingtalk\\": "src"
